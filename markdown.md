@@ -78,3 +78,10 @@ ex)
     * 2단계  
   - 2단계 하위 아이템  
     * 2단계
+* 아이템3
+
+1. item1
+3. item2
+  9. sub level item1
+     3. sub level item2
+9. item3
