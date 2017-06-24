@@ -9,26 +9,22 @@
  공백 두번 
 2. 헤더
 ### '# 헤더이름'식으로 작성하면 된다. #을 1~6개까지 총 6단계로 쓸 수있다.
-'# headerName  
-'## headerName
-  
-'### headerName
-  
-'#### headerName
-  
-'##### headerName
-  
-'###### headerName
+'# headerName1  
+'## headerName2  
+'### headerName3  
+'#### headerName4  
+'##### headerName5  
+'###### headerName6
 
-'# headerName  
-# headerName
-'## headerName  
-## headerName
-'### headerName  
-### headerName
-'##### headerName  
-#### headerName
-'###### headerName  
-##### headerName
-'####### headerName  
-###### headerName
+'# headerName1  
+# headerName1
+'## headerName2  
+## headerName2
+'### headerName3  
+### headerName3
+'##### headerName4  
+#### headerName4
+'###### headerName5  
+##### headerName5
+'####### headerName6  
+###### headerName6
