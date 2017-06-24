@@ -7,3 +7,18 @@
  문단작성
  빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙음  
  공백 두번 
+2. 헤더
+## '#'식으로 작성하면 된다.   
+'# headerName
+'## headerName
+'### headerName
+'#### headerName
+'##### headerName
+'###### headerName
+
+# headerName
+## headerName
+### headerName
+#### headerName
+##### headerName
+###### headerName
