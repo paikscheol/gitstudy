@@ -8,8 +8,8 @@
  빈 줄이 없으면 자동으로 앞의 문장 뒤에 붙음  
  공백 두번 
 2. 헤더
-## '#'식으로 작성하면 된다.   
-'# headerName  
+### '# 헤더이름'식으로 작성하면 된다. #을 1~6개까지 총 6단계로 쓸 수있다.
+'# headerName  
 '## headerName  
 '### headerName  
 '#### headerName  
