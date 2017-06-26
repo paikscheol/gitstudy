@@ -84,8 +84,8 @@
 * 아이템3
 
 1. item1
-3. item2
-   9. sub level item1  
-    3. sub level item2
+3. item2  
+   9. sub level item1
+     3. sub level item2
 9. item3
 
